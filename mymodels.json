@@ -1,0 +1,128 @@
+[
+{
+    "model": "ecommerce.item",
+    "pk": 1,
+    "fields": {
+        "title": "Donner DDP-90 Digital Piano",
+        "price": 4999.0,
+        "discount_price": 4500.0,
+        "category": "P",
+        "label": "P",
+        "slug": "piano-1",
+        "description": "Donner DDP-90 Digital Piano, 88 Key Weighted Piano Keyboard for Beginner/Professional, Keyboard Piano W/Three Pedals, Supports U-disk Music Playing, PC/Tablet/Cell Phone Connecting, Audio In/Output \r\n\r\n\r\n    🎵【Full-Weighted 88 Key Digital Piano】Donn  er DDP-90 piano keyboard is equipped with 88 full-sized hammer action keys(with adjustable touch response) and high-quality sound samples from real acoustic grand pianos, which makes it suitable for practicing at home, stage or concerts.\r\n    🎵【128 Polyphony & 3-pedal System】128 polyphony meet your fast trills playing. And this piano keyboard has a metal 3-pedal system: Soft / Sustain/ Sostenuto Pedal to ensure the quality of your playing, and aim to create new experiences in music and performance.\r\n    🎵【Piano for Beginner & Professional】Our 88-key digital piano can precisely match the finger strength changes, which is good for early finger developing and feeling maintenance. And the electric keyboard is always in tune, so it helps beginners automatically acquire and maintain the absolute pitch.\r\n    🎵【Multiple Device Connecting】Come with U disk-MP3 playing(built-in amplifier); PC/Laptop/Tablet/Smartphone concecting (for music app using and music recording); External sound support (need to connect to external speakers); Headphone using(the headphone jack is at the bottom left of the piano).\r\n    🎵【Beautiful and Practical Digital Piano】The excellent flip cover come with a slow closing function to protect your hands and keyboard. And we redesigned the shape to a smaller piano body without infect any perfect sound quality, which is suitable for dormitories or other small rooms.",
+        "image": "piano_wK6O59V.jpg"
+    }
+},
+{
+    "model": "ecommerce.item",
+    "pk": 2,
+    "fields": {
+        "title": "Pyle 36” Classical Acoustic Guitar",
+        "price": 2000.0,
+        "discount_price": null,
+        "category": "G",
+        "label": "P",
+        "slug": "guitar-1",
+        "description": "Pyle 36” Classical Acoustic Guitar-3/4 Junior Size 6 Linden Wood Guitar w/Gig Bag, Tuner, Nylon Strings, Picks, Strap, for Beginners, Adults, Right, Natural (PGACLS82) \r\nBrand - Pyle\r\n\r\nColor - Natural\r\nTop Material Type  - Basswood\r\nBody Material - Wood\r\nBack Material Type - Maple Wood\r\nNeck Material Type  - Maple\r\nFretboard Material Type  - Maple\r\nGuitar Pickup Configuration  - Combination\r\nString Material Type \t- Phosphor Bronze\r\nHand Orientation - Right\r\n\r\n More About this item\r\n\r\n    36” BEGINNER GUITAR SET: Pyle brings you a complete all-in-one acoustic guitar set, everything you need to start playing. The guitar comes with a gig bag case, pitch pipe tuner, spare strings, pearloid picks, cleaning cloth, and a gift card\r\n    JUNIOR SCALE SIZE: A junior scale 6 string guitar perfect for use on lessons, recitals, band rehearsals, onstage performances or when practicing at home. Has a traditional classic body style great for beginners and children learning to play guitar\r\n    HANDCRAFTED: The classical guitar features handcrafted construction w/ linden wood body, birch headstock, dyed maple wood fretboard, high gloss polished body back w/ protective binding, rosette linden laminate finish, chrome 3-in-line machine head\r\n    BEGINNER READY: This traditional junior classic acoustic stringed instrument kit is excellent for both beginner and children looking to start guitar playing. It brings you everything you need to start playing straight out of the box\r\n    SPECIFICATIONS: Total length: 36”; Scale length: 22.8”; Total body length: 17.3”; Total neck length (Nut to body): 18.5”; No. of frets: 18 frets; Guitar body material: Linden wood; String material: Nylon; Total dimensions: 35.8” L x 13.4” W x 3.35” H",
+        "image": "guitar_sAhSkUl.jpg"
+    }
+},
+{
+    "model": "ecommerce.item",
+    "pk": 3,
+    "fields": {
+        "title": "Basics Beginner Violin Bundle",
+        "price": 2999.0,
+        "discount_price": 2600.0,
+        "category": "V",
+        "label": "S",
+        "slug": "voilin-1",
+        "description": "Basics Beginner Violin Bundle, Full Size, Solid wood,Natural - Bow, Strings, Strap, Tuner, Rosin, and Case \r\n\r\nBrand \tBasics\r\nColor \tNatural\r\nItem Dimensions LxWxH \t23.54 x 8.27 x 3.35 inches\r\nBack Material Type \tMaple\r\nFinish Type \tVarnish\r\nInstrument \tViolin\r\nItem Weight \t1.23 Pounds\r\nOperation Mode \tAcoustic\r\n\r\n About this item\r\n\r\n    Full size (4/4) solid wood student violin in a natural color; ideal for beginner players ages 11 years and older\r\n    Solid spruce top provides optimal acoustic sound; solid maple back, sides, and neck for added strength and beauty\r\n    Decorative inlaid purfling and carefully applied gloss varnish for a smooth finish; ebony fingerboard, chin rest, and pegs\r\n    Includes a solid-wood bow with unbleached genuine horsehair, quality rosin, extra strings, a tuner, a lightweight shaped violin case with pockets and backpack straps for easy transport\r\n    Backed by an Amazon Basics 1-year limited warranty",
+        "image": "voilin_v2qVhJR.jpg"
+    }
+},
+{
+    "model": "ecommerce.item",
+    "pk": 4,
+    "fields": {
+        "title": "Tabla set of 2",
+        "price": 1999.0,
+        "discount_price": null,
+        "category": "T",
+        "label": "P",
+        "slug": "tabla-1",
+        "description": "✔ BRAND NEW ORIGINAL PRODUCT\r\n    ✔ PROFESSIONALLY TESTED - INSTRUMENT HAND CRAFTED IN INDIA\r\n    ✔ DESIGNER COPPER BAYAN 3.5 KG, SHEESHAM WOOD DAYAN TUNED TO C#, SPECIAL HAND MADE BRAIDED PUDDIS\r\n    ✔ PROFESSIONAL QUALITY TABLA SET\r\n    ✔ PADDED CARRY BAG, TUNING HAMMER, HIGH QUALITY CUSHIONS AND COVERS, TABLA BOOK ARE INCLUDED",
+        "image": "tabla_pF7NZyG.jpg"
+    }
+},
+{
+    "model": "ecommerce.item",
+    "pk": 5,
+    "fields": {
+        "title": "Drum set for kids",
+        "price": 9000.0,
+        "discount_price": null,
+        "category": "D",
+        "label": "P",
+        "slug": "drum-1",
+        "description": "Mendini By Cecilio Drum Set For Kids/Junior - 16-Inch, 5-Piece, Blue Metallic - Starter Drums Kit w/Adjustable Throne, Cymbal, Pedal & Drumsticks\r\n\r\n\r\n    GREAT KIDS DRUM SET: The 5-Piece junior drum set is an 'all-in-one' fully functional drum kit designed specifically for entry level drummers. It has everything you need to get set up and playing in no time. It is a perfect gift for the young drummer.\r\n    HIGH QUALITY AND GREAT SOUND: The drum sets for kids ages 5-13 not only looks shiny, vibrant and glittery, but the kids drums are durably made. They are strong to sustain continuous play while producing a great sound.\r\n    KIDS DRUM SETS INCLUDE: The kid drum set comes with 1 bass drum (8”x13”, 4 lugs, bass drum foot pedal), 1 mounted tom drum (6”x8”, 4 lugs), 1 mounted snare drum (4”x10”, 4 lugs) and 1 cymbal (8” with cymbal arm).\r\n    MUSIC ACCESSORIES: In addition to the kids musical instruments, the set comes with a pair of wooden kids drumsticks so the playing can start right after setup. It also includes a round padded drum throne with adjustable height.\r\n    EASY TO ASSEMBLE: To avoid any damage to the well-crafted music instruments for kids during shipping, the drums for kids come unassembled, but the assembly is very simple. Easy-to-follow instructions are included.",
+        "image": "Drum_set.jpg"
+    }
+},
+{
+    "model": "ecommerce.item",
+    "pk": 6,
+    "fields": {
+        "title": "Melissa & Doug Learn-to-Play Piano With 25 Keys and Color-Coded Songbook - Blue",
+        "price": 6000.0,
+        "discount_price": null,
+        "category": "P",
+        "label": "P",
+        "slug": "piano-2",
+        "description": "Melissa & Doug Learn-to-Play Piano With 25 Keys and Color-Coded Songbook - Blue \r\n\r\nUpright piano with solid wood construction\r\nFeatures 25 keys and 2 full octaves\r\nEasy-to-play, illustrated songbook (English lyrics)\r\nHigh-quality materials ensure durability and safety\r\nAges 4+",
+        "image": "Melissa__Doug_Learn-to-Play_Piano.jpg"
+    }
+},
+{
+    "model": "ecommerce.item",
+    "pk": 7,
+    "fields": {
+        "title": "Master-play  Beginner Wood Acoustic Guitar 38” For Boys/Girls/Teens With Accessories",
+        "price": 3312.0,
+        "discount_price": 3000.0,
+        "category": "G",
+        "label": "P",
+        "slug": "guitar-2",
+        "description": "Master-play  Beginner Wood Acoustic Guitar 38” For Boys/Girls/Teens With Accessories Kit, Case, Strap, Pick, Digital Tuner, Extra Strings, Capo, Wash Cloth (Pink Gradient) \r\n\r\nBrand \tMaster Play\r\nColor \tPink Gradient\r\nBody Material \tWood",
+        "image": "Beginner_Wood_Acoustic_Guitar_38_For_BoysGirlsTeens_With_Accessories.jpg"
+    }
+},
+{
+    "model": "ecommerce.item",
+    "pk": 8,
+    "fields": {
+        "title": "YMC 38\" Blue Beginner Acoustic Guitar Starter Package Student Guitar",
+        "price": 4320.0,
+        "discount_price": null,
+        "category": "G",
+        "label": "P",
+        "slug": "guitar-3",
+        "description": "Brand \tYMC\r\nColor \tBlue\r\nTop Material Type \tBasswood\r\nBody Material \tLaminated\r\nBack Material Type \tBasswood\r\nNeck Material Type \tBirch\r\nFretboard Material Type \tEbonized Wood\r\nGuitar Pickup Configuration \tNo Pickup\r\nString Material Type \tSteel\r\nHand Orientation \tRight",
+        "image": "YMC_38_Blue_Beginner_Acoustic_Guitar_Starter_Package_Student_Guitar.jpg"
+    }
+},
+{
+    "model": "ecommerce.item",
+    "pk": 9,
+    "fields": {
+        "title": "Basics Beginner Violin Bundle, Full Size, Solid wood,Natural",
+        "price": 7200.0,
+        "discount_price": 7000.0,
+        "category": "V",
+        "label": "D",
+        "slug": "voilin-2",
+        "description": "Brand \tAmazon Basics\r\nColor \tNatural\r\nItem Dimensions LxWxH \t23.54 x 8.27 x 3.35 inches\r\nBack Material Type \tMaple\r\nFinish Type \tVarnish\r\nInstrument \tViolin\r\nItem Weight \t1.23 Pounds\r\nOperation Mode \tAcoustic\r\n\r\nAbout this item\r\n    Full size (4/4) solid wood student violin in a natural color; ideal for beginner players ages 11 years and older\r\n    Solid spruce top provides optimal acoustic sound; solid maple back, sides, and neck for added strength and beauty\r\n    Decorative inlaid purfling and carefully applied gloss varnish for a smooth finish; ebony fingerboard, chin rest, and pegs\r\n    Includes a solid-wood bow with unbleached genuine horsehair, quality rosin, extra strings, a tuner, a lightweight shaped violin case with pockets and backpack straps for easy transport\r\n    Backed by an Amazon Basics 1-year limited warranty",
+        "image": "Basics_Beginner_Violin_Bundle_Full_Size_Solid_woodNatural_eq3P0Xp.jpg"
+    }
+}
+]
